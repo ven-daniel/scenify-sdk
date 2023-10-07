@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.5",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -47,23 +47,23 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^5.0.5",
-    "@types/react": "^17.0.27",
-    "@types/react-dom": "^17.0.9",
-    "husky": "^7.0.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "size-limit": "^5.0.5",
+    "@size-limit/preset-small-lib": "^9.0.0",
+    "@types/react": "^18.2.25",
+    "@types/react-dom": "^18.2.11",
+    "husky": "^8.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "size-limit": "^9.0.0",
     "tsdx": "^0.14.1",
-    "tslib": "^2.3.1",
-    "typescript": "^4.4.3"
+    "tslib": "^2.6.2",
+    "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@types/fabric": "^4.5.4",
-    "@types/lodash": "^4.14.175",
-    "fabric": "^4.6.0",
+    "@types/fabric": "^5.3.4",
+    "@types/lodash": "^4.14.199",
+    "fabric": "^5.3.0",
     "gifshot": "^0.4.5",
-    "gsap": "^3.8.0",
+    "gsap": "^3.12.2",
     "lodash": "^4.17.21",
     "resize-observer-polyfill": "^1.5.1"
   }
