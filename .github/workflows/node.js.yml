@@ -26,7 +26,6 @@ jobs:
         node-version: 18
         registry-url: "https://registry.npmjs.org"
     - run: npm install
-    - run: npm audit fix
     - run: npm ci
     - run: npm test
     - run: npm publish
