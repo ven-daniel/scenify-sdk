@@ -11,5 +11,3 @@ yarn add @nkyo/scenify-sdk
 # using npm
 npm install @nkyo/scenify-sdk
 ```
-
-**View full documentation and examples on [Scenify SDK Docs](https://docs.scenify.dev)**
