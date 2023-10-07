@@ -6,19 +6,10 @@ Scenify SDK is available on npm as @scenify/sdk. This single package contains al
 
 ```sh
 # using yarn
-yarn add @scenify/sdk
+yarn add @nkyo/scenify-sdk
 
 # using npm
-npm install @scenify/sdk
+npm install @nkyo/scenify-sdk
 ```
 
 **View full documentation and examples on [Scenify SDK Docs](https://docs.scenify.dev)**
-
-## Join us on Discord
-
-<p>
-    <a href="https://discord.gg/HqyXEhkXNZ">
-        <img src="https://discordapp.com/api/guilds/898955692491309126/widget.png?style=banner2" alt="Discord Banner 2"/>
-    </a>
-</p>
-<!-- 177d8013c568c4d17f43a4909fdb32469a86f20b -->
