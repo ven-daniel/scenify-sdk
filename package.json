@@ -28,11 +28,11 @@
     "arrowParens": "avoid"
   },
   "name": "@nkyo/scenify-sdk",
-  "author": "Dany Boza <db@backium.co>",
-  "homepage": "https://github.com/scenify/scenify-sdk",
-  "repository": "https://github.com/scenify/scenify-sdk",
+  "author": "NK <nam@nk.cab>",
+  "homepage": "https://github.com/nkyo/scenify-sdk",
+  "repository": "https://github.com/nkyo/scenify-sdk",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
+    "registry": "https://registry.npmjs.org",
     "access": "public"
   },
   "module": "dist/scenify.esm.js",
