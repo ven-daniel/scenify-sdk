@@ -27,7 +27,7 @@
     "printWidth": 110,
     "arrowParens": "avoid"
   },
-  "name": "@nelie-taylor/scenify-sdk",
+  "name": "@nkyo/scenify-sdk",
   "author": "Dany Boza <db@backium.co>",
   "homepage": "https://github.com/scenify/scenify-sdk",
   "repository": "https://github.com/scenify/scenify-sdk",
