@@ -27,10 +27,10 @@
     "printWidth": 110,
     "arrowParens": "avoid"
   },
-  "name": "@nkyo/scenify-sdk",
-  "author": "NK <nam@nk.cab>",
-  "homepage": "https://github.com/nkyo/scenify-sdk",
-  "repository": "https://github.com/nkyo/scenify-sdk",
+  "name": "@venagency/scenify-sdk",
+  "author": "venagency",
+  "homepage": "https://github.com/venagency/scenify-sdk",
+  "repository": "https://github.com/venagency/scenify-sdk",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
     "access": "public"
